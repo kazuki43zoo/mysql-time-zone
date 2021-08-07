@@ -16,6 +16,7 @@
 
     <modules>
         <module>mysql-jdbc-driver</module>
+        <module>mariadb-jdbc-driver</module>
     </modules>
 
 </project>
